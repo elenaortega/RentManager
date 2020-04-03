@@ -1,5 +1,5 @@
-## RentManager
-# ProjetJAVA
+# RentManager
+## ProjetJAVA
 
 jdk8 ainsi que Maven doivent être installés dans l'environnement de travail pour pouvoir lancer le site web.
 Ensuite, pour lancer l'application web il suffit d'ouvrir un terminal sur le dossier du projet et écrire la ligne de commande "mvn clean install tomcat7:run".
