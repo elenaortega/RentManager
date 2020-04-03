@@ -12,9 +12,9 @@ Plein d'erreurs (liées aux Servlets) sont détectées par Eclipse sur les fichi
 
 Je suis consciente des suivants bugs:
  - Sur l'application Web:
-	--> il n'est pas possible de modifier les données
-	--> la section "Voitures" est inaccessible
-	--> il n'est pas possible d'ajouter une réservation
+	- il n'est pas possible de modifier les données
+	- la section "Voitures" est inaccessible
+	- il n'est pas possible d'ajouter une réservation
 
  - Sur le CLI:
 	--> il n'est pas possible d'afficher un client avec son ID
