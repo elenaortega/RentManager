@@ -17,9 +17,9 @@ Je suis consciente des suivants bugs:
 	- il n'est pas possible d'ajouter une réservation
 
  - Sur le CLI:
-	--> il n'est pas possible d'afficher un client avec son ID
-	--> il y a un problème avec la table VEHICULE, il n'est donc pas possible d'ajouter une voiture, en supprimer ou juste les afficher
-	--> il n'est pas possible de faire de réservation, ni de les afficher ou supprimer.
+	- il n'est pas possible d'afficher un client avec son ID
+	- il y a un problème avec la table VEHICULE, il n'est donc pas possible d'ajouter une voiture, en supprimer ou juste les afficher
+	- il n'est pas possible de faire de réservation, ni de les afficher ou supprimer.
 
 
 Malgré tous ces "bugs", j'ai créé les fichiers qui devraient réaliser la plupart de ces fonctionnalités.
